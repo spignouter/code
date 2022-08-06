@@ -1,0 +1,28 @@
+Function Expression
+https://learn.javascript.ru/function-expressions
+
+Стрелочные функции, основы
+https://learn.javascript.ru/arrow-functions-basics
+
+Промисы
+https://learn.javascript.ru/promise-basics
+
+https://learn.javascript.ru/promise
+
+Загрузка ресурсов: onload и onerror
+https://learn.javascript.ru/onload-onerror
+
+Async/await
+https://learn.javascript.ru/async-await
+
+В чем разница между объявлением переменной, её определением и инициализацией
+https://swiftbook.ru/post/tutorials/obyavlenie-opredelenie-inicializaciya/
+
+Перевод официальной документации Typescript на русский.
+http://typescript-lang.ru/docs/
+
+Формы
+https://ru.reactjs.org/docs/forms.html
+
+Mobx & React Полный курс 2021
+https://www.youtube.com/watch?v=jn-L1SFYdIc

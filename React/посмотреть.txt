@@ -1,0 +1,31 @@
+Продвинутый BACKEND на Node.js. Nest js ПОЛНЫЙ КУРС & Docker
+https://www.youtube.com/watch?v=dDeWWQWMM-Y&t=21s
+
+Полный Full Stack курс ReactJS + NodeJS для начинающих за 4 часа! (MongoDB, Express, React, NodeJS)
+https://www.youtube.com/watch?v=GQ_pTmcXNrQ
+
+Introduction to DICOM
+https://www.youtube.com/watch?v=sqTK4YhzNh4
+
+DICOM Communications 101
+https://www.youtube.com/watch?v=DJsnan19EmM
+
+Архитектура ПО - Лекция 2 (Архитектурные стили)
+https://www.youtube.com/watch?v=6-5EBComg6Q
+
+Service Class Provider: C-STORE | DICOM 8
+https://www.youtube.com/watch?v=BNeX4BGmKO0
+
+PACS-сервер своими руками
+https://habr.com/ru/post/193134/
+
+Система архивирования и передачи медицинских изображений и данных PACS/RIS. Основы
+https://www.youtube.com/watch?v=Lg5UUAwS7Vo
+
+Семантическое моделирование данных. ER модели. Лекция 6. Тусур 3 курс.
+https://www.youtube.com/watch?v=doo6Bz2rkZk
+
+САМЫЕ ЧАСТЫЕ ЗАБЛУЖДЕНИЯ ООП
+https://www.youtube.com/watch?v=BHNt1fcg8iw
+
+
